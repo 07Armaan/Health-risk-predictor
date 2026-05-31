@@ -1,0 +1,6 @@
+__pycache__
+feature_names.pkl
+final_pipeline.pkl
+le.pkl
+Lifestyle_and_Health_Risk_Prediction_Synthetic_Dataset.csv
+ml.ipynb
